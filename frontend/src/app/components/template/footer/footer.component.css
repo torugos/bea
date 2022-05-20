@@ -1,0 +1,21 @@
+.material-icons .copyright{
+    vertical-align: top;
+}
+a{
+    font-weight: bold;
+    color: aqua;
+}
+p{
+    font-weight: 500;
+    vertical-align: bottom;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    max-height: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}

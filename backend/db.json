@@ -1,0 +1,15 @@
+{
+    "team":[{
+        "id": 1,
+        "name": "Victor Silva"
+    },
+    {
+        "id": 2,
+        "name": "Paulo Wilson"
+    },
+    {
+        "id": 3,
+        "name": "Guilherme Parpineli"
+    }
+]
+}
