@@ -1,0 +1,42 @@
+.card-top{
+    background-color: grey;
+}
+
+.card1{
+    height: 600px;
+    display: flex;
+    background-color: grey;
+    text-align: center;
+}
+
+.card2{
+    background-color: #60c3d8;
+    margin: 50px;
+    height: 500px;
+}
+
+.card3{
+    padding-top: 10px;
+    background-color: rgb(197, 190, 190);
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.margin-top{
+    margin-top: 50px;
+}
+
+.top-card{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.container p{
+    font-size: large;
+}
+
+.texto-p{
+    padding-top: 100px;
+}
+
