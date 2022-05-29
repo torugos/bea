@@ -1,0 +1,11 @@
+mat-slider{
+    width: 970px;
+    background-color: rgb(168, 168, 168);
+    margin: 30px;
+    padding: 10px;
+    align-items: center;
+}
+
+img{
+    max-width: 100px;
+}

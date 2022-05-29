@@ -38,5 +38,10 @@
 
 .texto-p{
     padding-top: 100px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
+button{
+    background-color: #60c3d8;
+}

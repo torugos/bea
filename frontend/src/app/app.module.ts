@@ -11,6 +11,10 @@ import { NavComponent } from './components/template/nav/nav.component';
 import { AboutComponent } from './components/view/about/about.component';
 import { HomeComponent } from './components/view/home/home.component';
 import { ContactComponent } from './components/view/contact/contact.component';
+import { MatButtonModule } from '@angular/material/button';
+import { MatDividerModule} from '@angular/material/divider';
+import { FormComponent } from './components/view/form/form.component';
+import { MatSliderModule } from '@angular/material/slider';
 
 @NgModule({
   declarations: [
@@ -21,12 +25,16 @@ import { ContactComponent } from './components/view/contact/contact.component';
     AboutComponent,
     HomeComponent,
     ContactComponent,
+    FormComponent  
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatToolbarModule
+    MatToolbarModule,
+    MatButtonModule,
+    MatDividerModule,
+    MatSliderModule
   ],
   providers: [],
   bootstrap: [AppComponent]
