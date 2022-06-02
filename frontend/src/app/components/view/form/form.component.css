@@ -1,11 +1,27 @@
 mat-slider{
-    width: 970px;
+    width: 700px;
     background-color: rgb(168, 168, 168);
-    margin: 30px;
-    padding: 10px;
-    align-items: center;
+    border: 1px solid #d2d2d2;
+    border-radius: .75rem;
 }
 
 img{
-    max-width: 100px;
+    max-width: 80px;
+    max-height: 80px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+button{
+    background-color: #60c3d8;
+    display: flex;
+    text-align: right;
+    margin-top: 10px;
+}
+
+p{
+    background-color: rgb(241, 240, 240);
+    border: 1px solid #d2d2d2;
+    border-radius: .75rem;
+    padding: .25rem;
 }

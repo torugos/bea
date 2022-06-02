@@ -11,4 +11,11 @@ export class FormComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  
+  formatLabel(value: number) {
+    if (value >= 0) {
+      return Math.round(value) + '%';
+    }
+    return value;
+  }
 }
