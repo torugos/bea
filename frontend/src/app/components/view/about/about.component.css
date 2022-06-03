@@ -1,0 +1,86 @@
+.conteudo {
+    margin: auto;
+    margin-top: 175px;
+    height: auto;
+    background-color: #60c3d8;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.box{
+    background-color: #ffff;
+    border-radius: 20px;
+    height: 375px;
+    position: relative;
+    top: -125px;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    vertical-align: top;
+    
+}
+
+.foto{
+    height: 200px;
+    width: 200px;
+    margin: 25px auto 25px auto;
+    border-radius: 200px;
+}
+
+.integrante1{
+    background-image: url("leonardo.jpeg");
+    background-position: center;
+    background-size: 100%;
+}
+
+.integrante2{
+    background-image: url("victor.jpg");
+    background-position: center;
+    background-size: 100%;
+}
+
+.integrante3{
+    background-image: url("guimaraes.jpg");
+    background-position: center;
+    background-size: 100%;
+}
+
+.integrante4{
+    background-image: url("almeida.jpg");
+    background-position: center;
+    background-size: 100%;
+}
+
+.nome{
+    font-weight: 540;
+}
+
+.texto{
+    color: white;
+    font-size: large;
+    margin: 0px auto 0px auto;
+}
+
+.quemsomos img{
+    height: 55px;
+    margin-right: 20px;
+}
+
+.quemsomos{
+    display: flex;
+    padding-top: 40px;
+    margin-top: -80px;
+    margin-bottom: 40px;
+    border-top: 1px solid white;
+}
+
+.motivacao img{
+    height: 65px;
+    margin-right: 90px;
+}
+
+.motivacao{
+    display: flex;
+    padding-top: 40px;
+    border-top: 1px solid white;
+}
